@@ -1,0 +1,34 @@
+.content {
+    text-align: left;
+    padding-top: 100px;
+    line-height: 50px;
+    font-weight: bolder;
+    color: darkmagenta;
+    }
+    .box {
+        margin: 0px 200px 0px 0px;
+        background-image: url(../aaron-burden-xG8IQMqMITM-unsplash.jpg);
+        float: left;
+        padding-bottom: 484px;
+        padding-right: 400px;
+        background-size: cover;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
+    .container {
+    margin: 50px 300px 5px;
+    height: 500px;
+    background-color: coral;
+    border-radius: 10px;
+    }
+    #name {
+        font-size: 50px;
+        text-align: justify;
+    }
+    #email {
+        font-size: 20px;
+        font-style: italic;
+    }
+    .container:hover {
+        box-shadow: 10px 10px  8px darkmagenta;
+    }
